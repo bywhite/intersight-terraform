@@ -1,0 +1,2 @@
+Using github to store Terraform files for use in Terraform Cloud.
+Terraform Workspace is intersight-terraform
